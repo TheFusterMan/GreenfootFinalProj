@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=GameWorld
+comment1.params=
+comment1.target=GameWorld.GameState\ getGameState()
+comment2.params=newState
+comment2.target=void\ setGameState(GameWorld.GameState)
+comment3.params=menu
+comment3.target=GameWorld(Menu)
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ startMinigame()
+comment6.params=
+comment6.target=void\ spawnBobber()
+comment7.params=
+comment7.target=void\ spawnFish()
+numComments=8
